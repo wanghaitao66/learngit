@@ -1,4 +1,4 @@
-git is a version control system.
+git it is a version control system.
 git is nb.
 zwjnb.
 fxynb.
@@ -9,3 +9,4 @@ zxccxz.
 qwer.
 qwertyui.
 yexu.
+yj is lovely.
