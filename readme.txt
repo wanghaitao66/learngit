@@ -12,6 +12,7 @@ qwertyui.
 yexu.
 yj is lovely.
 yjyj.
+yj。
 =======
 nb.
 >>>>>>> dev
